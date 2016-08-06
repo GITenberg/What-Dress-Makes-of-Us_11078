@@ -1,0 +1,28 @@
+_repo: What-Dress-Makes-of-Us_11078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quigley, Dorothy
+    gutenberg_agent_id: '3827'
+    url: http://www.gutenberg.org/2009/agents/3827
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Clothing and dress'
+- GITenberg
+tableOfContents: How women of certain types should dress their hair -- Hints for the
+  selection of becoming and appropriate styles in head-gear -- Lines that should be
+  recognized and considered in making costumes -- How plump and thin backs should
+  be clothed -- Corsages appropriate for women with unbeautifully modelled throats
+  and shoulders -- Hints on dress for elderly women -- How men caricature themselves
+  with their clothes.
+title: What Dress Makes of Us
+url: http://www.gutenberg.org/ebooks/11078
