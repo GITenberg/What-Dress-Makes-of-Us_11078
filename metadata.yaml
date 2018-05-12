@@ -1,11 +1,16 @@
 _repo: What-Dress-Makes-of-Us_11078
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Quigley, Dorothy
     gutenberg_agent_id: '3827'
     url: http://www.gutenberg.org/2009/agents/3827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11078#What-Dress-Makes-of-Us
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
